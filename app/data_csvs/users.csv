@@ -1,0 +1,2 @@
+email,password,username,first_name,last_name,is_system_admin,is_fte,is_business_steward,is_resource,is_onshore,access_level,created_at,updated_at
+johndoe@example.com,password123,johndoe,John,Doe,1,0,1,1,0,5,2024-08-01 12:00:00,2024-08-01 12:00:00
