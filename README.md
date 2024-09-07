@@ -33,8 +33,8 @@ This project is a FastAPI application that integrates various AI models and a da
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/terry-milestone-03.git
-   cd terry-milestone-03
+   git clone https://github.com/your-username/ai-powered-proj-management.git
+   cd AI-POWERED-PROJ-MANAGEMENT
    ```
 
 2. **Set up a virtual environment**:
