@@ -1,5 +1,5 @@
 
-# AI Poweered Project Management
+# AI Powered Project Management
 
 This project is a FastAPI application that integrates various AI models and a database to handle user authentication and serve responses for cost, project, and risk management queries. It also supports chat functionality, allowing the creation and retrieval of chat messages and conversations.
 
