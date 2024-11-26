@@ -111,13 +111,6 @@ This will start the server on `http://127.0.0.1:8000`.
 - **OAuth2**: Authentication and token handling.
 - **LLMs and VectorStore**: For AI-driven query responses.
 
-## Testing
-
-To run tests, you can use:
-
-```bash
-pytest
-```
 
 ## Future Improvements
 
