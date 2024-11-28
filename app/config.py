@@ -3,15 +3,15 @@ from sqlalchemy.orm import declarative_base, sessionmaker
 import asyncpg
 
 POSTGRES_CONNECTION = {
-    "dbname": "appdb",
-    "user": "postgres",
-    "password": "Stewardiq3939",
-    "host": "34.134.50.75",
+    "dbname": "your-db",
+    "user": "your-user",
+    "password": "your-pass",
+    "host": "your-host",
     "port": "5432"
 }
 
-DATABASE_URL = 'postgresql+pg8000://postgres:Stewardiq3939@34.134.50.75:5432/appdb'
-DATABASE = 'postgresql://postgres:Stewardiq3939@34.134.50.75:5432/appdb'
+DATABASE_URL = 'DATABASE_URI'
+DATABASE = 'DB'
 
 engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
